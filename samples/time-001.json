@@ -1,0 +1,10 @@
+{
+  "report_type": "time_attendance",
+  "date": "2026-11-08",
+  "site": "Field Site Alpha",
+  "crew": [
+    {"name": "Operator A", "clock_in": "07:00", "clock_out": "15:30", "hours": 8.5, "task": "Site prep"},
+    {"name": "Operator B", "clock_in": "07:15", "clock_out": "16:00", "hours": 8.75, "task": "Equipment ops"}
+  ],
+  "notes": "Weather clear. No incidents."
+}
